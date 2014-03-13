@@ -1,0 +1,285 @@
+TEigenvector centrality
+v6
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/Objects-normal/x86_64/main.o /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Eigenvector\ centrality/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Products/Debug/Eigenvector\ centrality normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000531E3B2600000000000000AA
+t1394490150
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526C6EA0000000000000044C
+t1382837920
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E3B1400000000000001DE
+t1394490132
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000531E3B16000000000000681C
+t1394490134
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c00000000526C6EA6000000000006E8B0
+t1382837926
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000526C6EA60000000000004734
+t1382837926
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000526C6EA6000000000000FC6C
+t1382837926
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000526C6EA6000000000000F6A0
+t1382837926
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000526C6EA60000000000006254
+t1382837926
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000526C6EA6000000000000E0F8
+t1382837926
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000531E3B16000000000000D6DC
+t1394490134
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000531E3B160000000000006308
+t1394490134
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000526C6EA60000000000004050
+t1382837926
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000531E3B160000000000008570
+t1394490134
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000526C6EA60000000000005EA0
+t1382837926
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000526C6EA60000000000005FAC
+t1382837926
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000526C6EA60000000000004440
+t1382837926
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000526C6EA6000000000000AA28
+t1382837926
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000526C6EA60000000000003E2C
+t1382837926
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000531E3B160000000000030B04
+t1394490134
+s199428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000531E3B160000000000005E54
+t1394490134
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000531E3B160000000000006A90
+t1394490134
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c00000000526C6EA600000000000178AC
+t1382837926
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000531E3B16000000000001ADC8
+t1394490134
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c00000000526C6EA6000000000001028C
+t1382837926
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000531E3B160000000000008800
+t1394490134
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000526C6EA60000000000011090
+t1382837926
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000526C6EA6000000000000882C
+t1382837926
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000531E3B1600000000000067AC
+t1394490134
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000526C6EA60000000000008DEC
+t1382837926
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000531E3B160000000000004C08
+t1394490134
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000531E3B160000000000002428
+t1394490134
+s9256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c00000000526C6EA6000000000000439C
+t1382837926
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000526C6EA60000000000006768
+t1382837926
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000531E3B1600000000000172F4
+t1394490134
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531E3B160000000000000ADC
+t1394490134
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c00000000531E3B160000000000001770
+t1394490134
+s6000
+
+N/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Build/Intermediates/Eigenvector centrality.build/Debug/Eigenvector centrality.build/Objects-normal/x86_64/Eigenvector centrality.LinkFileList
+c0000000053221ABB00000000000000CB
+t1394743995
+s203
+
+N/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Build/Intermediates/Eigenvector centrality.build/Debug/Eigenvector centrality.build/Objects-normal/x86_64/main.o
+t1394747697
+s242348
+
+N/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Build/Products/Debug/Eigenvector centrality
+t1394747697
+s61088
+
+N/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Eigenvector centrality/main.cpp
+c00000000532228EC00000000000006C7
+t1394747628
+s1735
+
+CBuild AST from /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Eigenvector\ centrality/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies990e89e360d2b841^f48889e360d2b841^---0#1#1#--18"Check dependencies36"10EC5D20-15CF-4737-A1C9-5B82325A439B-
+
+CCompileC Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/Objects-normal/x86_64/main.o /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Eigenvector\ centrality/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s416440496.446467
+e416440497.699551
+r1
+xCompileC
+xBuild/Intermediates/Eigenvector centrality.build/Debug/Eigenvector centrality.build/Objects-normal/x86_64/main.o
+x/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Eigenvector centrality/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Eigenvector centrality/main.cpp
+o/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Eigenvector centrality/main.cpp:86:27: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    makeNodeStartFromZero("inputtest.txt", "outputtest.txt");
+o                          ^
+o/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Eigenvector centrality/main.cpp:86:44: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    makeNodeStartFromZero("inputtest.txt", "outputtest.txt");
+o                                           ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Eigenvector centrality/main.cpp218"CompileC Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/Objects-normal/x86_64/main.o Eigenvector\ centrality/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler136272b060d2b841^ec14b3b160d2b841^-673"/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Eigenvector centrality/main.cpp:86:27: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    makeNodeStartFromZero("inputtest.txt", "outputtest.txt");                          ^/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Eigenvector centrality/main.cpp:86:44: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    makeNodeStartFromZero("inputtest.txt", "outputtest.txt");                                           ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@56"Conversion from string literal to 'char *' is deprecated-416440497#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@132"file:///Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector%20centrality/Eigenvector%20centrality/main.cpp0000000000000000^85#26#85#26#1682#0#14"Semantic Issue--2@56"Conversion from string literal to 'char *' is deprecated-416440497#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@132"file:///Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector%20centrality/Eigenvector%20centrality/main.cpp0000000000000000^85#43#85#43#1699#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@132"file:///Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector%20centrality/Eigenvector%20centrality/main.cpp0000000000000000^4006"CompileC Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/Objects-normal/x86_64/main.o Eigenvector\ centrality/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality"    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/jincui/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/Eigenvector\ centrality-generated-files.hmap -I/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/Eigenvector\ centrality-own-target-headers.hmap -I/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/Eigenvector\ centrality-all-target-headers.hmap -iquote /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/Eigenvector\ centrality-project-headers.hmap -I/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/DerivedSources/x86_64 -I/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/DerivedSources -F/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Products/Debug -MMD -MT dependencies -MF /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/Objects-normal/x86_64/main.dia -c /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Eigenvector\ centrality/main.cpp -o /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/Objects-normal/x86_64/main.o36"44DFAC2E-B91B-4D04-A649-95F0EF3BDCA0-
+b5F736C7F-6365-40A6-8730-86EBC88A49D7
+
+CLd /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Products/Debug/Eigenvector\ centrality normal x86_64
+s416440497.708331
+e416440497.904691
+r1
+xLd
+x/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Build/Products/Debug/Eigenvector centrality
+xnormal
+xx86_64
+d/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Build/Intermediates/Eigenvector centrality.build/Debug/Eigenvector centrality.build/Objects-normal/x86_64/Eigenvector centrality.LinkFileList
+d/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Build/Intermediates/Eigenvector centrality.build/Debug/Eigenvector centrality.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Link /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality/Build/Products/Debug/Eigenvector centrality61"Ld Build/Products/Debug/Eigenvector\ centrality normal x86_64ec6bb5b160d2b841^4fcfe7b160d2b841^---0#0#1#--1355"Ld Build/Products/Debug/Eigenvector\ centrality normal x86_64    cd "/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector centrality"    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Products/Debug -F/Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Products/Debug -filelist /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/Objects-normal/x86_64/Eigenvector\ centrality.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Intermediates/Eigenvector\ centrality.build/Debug/Eigenvector\ centrality.build/Objects-normal/x86_64/Eigenvector\ centrality_dependency_info.dat -o /Users/jincui/Documents/Classes/UUSpring2014/ManyCore/Project/code/Eigenvector\ centrality/Build/Products/Debug/Eigenvector\ centrality36"2EB78BB9-DEFF-4A9B-8D3A-24F3767D1C85-
+b5F736C7F-6365-40A6-8730-86EBC88A49D7
+
